@@ -1,6 +1,6 @@
 # Hi there 👋, I'm [Danila](https://github.com/BaranovDanila)
 
-## I'm [BMSTU](http://www.bmstu.ru/) student and novice Data Scientist.
+## I'm [BMSTU](http://www.bmstu.ru/) student and Data Scientist.
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
