@@ -1,4 +1,4 @@
-# Hi there, I'm Danila: ML Engineer from Moscow.
+# Hi there
 
 ### Links
 [![LinkedIN](https://img.shields.io/badge/-LinkedIN-000000?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/danila-baranov/)
